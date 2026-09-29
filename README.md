@@ -47,3 +47,4 @@ Set a new `VENDOR_BANK_ID` in `.env`, delete `data/live_events.json`, then reloa
 - Memory and forgetting are known concepts. Our angle: business decision support, visible supersession and a before/after comparison.
 - Data is synthetic. No real vendors.
 - Hindsight consolidation is asynchronous, so new observations can take a while to appear in the Hindsight view tab.
+##Deployed link: https://vendor-memory-agent-asma.streamlit.app
