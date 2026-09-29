@@ -1,0 +1,7 @@
+.env
+venv/
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+data/live_events.json
+data/seeded_*.flag
